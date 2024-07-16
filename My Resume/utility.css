@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Outfit');
+
+.padding-left{
+    padding-left:30px;
+}
+
+.padding-right{
+    padding-right: 30px;
+}
+
+.rule{
+    border-top: 2px solid black;
+    position: relative;
+    z-index: 10;
+}
+
+.left-rule-margin{
+    margin-right: 20px;
+}
+
+.heading{
+    margin-left: 30px;
+    font-size: 22px;
+}
+
+.subheading{
+    font-size: 16px;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
