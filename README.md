@@ -1,2 +1,2 @@
-# My-Resume-Template
-https://shawayush98.github.io/My-Resume-Template/
+# My-Resume
+https://shawayush98.github.io/My-Resume/
